@@ -7,4 +7,4 @@
 - 📫 How to reach me: jessh@duck.com
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessiehu907&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchuder&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
