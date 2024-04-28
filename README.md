@@ -5,7 +5,7 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning React & algorithm
+- 🌱 I’m currently learning algorithm
 - 📫 How to reach me: jessh@duck.com
 <br>
 
