@@ -9,4 +9,6 @@
 - 📫 How to reach me: jessh@duck.com
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchuder&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jchuder's GitHub stats](https://github-stats-extended.vercel.app/api?username=jchuder&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jchuder&layout=compact&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
