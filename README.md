@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**![](https://komarev.com/ghpvc/?username=jchuder&label=Visitors)**
+**![](https://komarev.com/ghpvc/?username=jchuder&label=Visitors&abbreviated=true)**
 
 <!--
 - 🔭 I’m currently working on ...
