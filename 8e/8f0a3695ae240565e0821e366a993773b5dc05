@@ -1,0 +1,20 @@
+README.md
+  s_58ec6aee682357::t_a87e98bcc324bf 14
+  s_58ec6aee682357::t_029fd0a763b2ae 7-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8e8f0a3695ae240565e0821e366a993773b5dc05",
+  "prompts": {},
+  "sessions": {
+    "s_58ec6aee682357": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0942d291bffebGENvbBFDpAocc",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Jessie.H <61487174+jchuder@users.noreply.github.com>"
+    }
+  }
+}
